@@ -4,7 +4,7 @@
 ## Установка и Запуск
 1. Клонировать репозиторий с GitHub:
 ```
-https://github.com/Styazhko/finaly_project
+https://github.com/HowardSTAR/pythonProject
 ```
 2. Перейти в директорию проекта.
 3. Создать виртуальное окружение:
