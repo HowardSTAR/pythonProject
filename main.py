@@ -7,6 +7,7 @@ def get_feedback(browser):
     return browser.find_element_by_css_selector(".smart-hints__hint").text
 
 @pytest.fixture(scope="function")
+
 def browser():
     print("\nStart browser for test...")
     browser = webdriver.Chrome()
